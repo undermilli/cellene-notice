@@ -1,0 +1,7 @@
+startDate: 2025-03-24
+endDate: 2025-03-30
+patchNote: {
+"en":"modified.",
+"ja":"修正されました。",
+"ko":"수정되었습니다."
+}
