@@ -2,8 +2,8 @@
   "startDate": "2025-03-24",
   "endDate": "2025-03-30",
   "patchNote": {
-    "en": "modified.</0>test enter",
-    "ja": "修正されました。</0>test enter",
-    "ko": "수정되었습니다.</0>줄바꿈 테스트"
+    "en": "modified.<0/>test enter",
+    "ja": "修正されました。<0/>test enter",
+    "ko": "수정되었습니다.<0/>줄바꿈 테스트"
   }
 }
